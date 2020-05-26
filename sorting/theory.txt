@@ -1,0 +1,5 @@
+External Sorting - When all the elements cann't be places into memory at a time, sorting is called External Sorting.
+		   External Sorting is used for massive amount of data.
+Internal Sorting - When all data is placed in-memory, then sorting is called internal sorting.
+
+
