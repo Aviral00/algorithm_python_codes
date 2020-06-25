@@ -1,0 +1,7 @@
+Important points about PYTHON:
+1.REMOVES CHARACTER IN BETWEEN STRINGS-
+
+s = 'abc12321cba'
+
+print(s.translate({ord(i): None for i in 'abc'}))
+Output: 12321
